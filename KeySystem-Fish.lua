@@ -2,7 +2,7 @@
 
 local correctKey = "fish2026"
 local realScript = "https://raw.githubusercontent.com/scriptify12/EscapeTsunami/main/EscapeTsunamiForFish.lua"
-local keyLink   = "https://direct-link.net/1349827/tajtUAqHZVlN"   -- change this if you have a different link for this version
+local keyLink   = "https://link-target.net/1349827/hKhZ9EWODFlT"   -- change this if you have a different link for this version
 
 local setclip = setclipboard or toclipboard or (Clipboard and Clipboard.set) or function() end
 

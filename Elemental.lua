@@ -1,8 +1,8 @@
 -- Key system wrapper ──────────────────────────────────────────────
 
-local correctKey = "fishgod2026"   -- ← CHANGE THIS TO YOUR DESIRED KEY
+local correctKey = "elemental2026"   -- ← CHANGE THIS TO YOUR DESIRED KEY
 local realScript = "https://raw.githubusercontent.com/scriptify12/EscapeTsunami/main/SomeGameExploit.lua"   -- ← update filename if different
-local keyLink    = "https://link-center.net/1349827/XBvEbv1mP1NB"
+local keyLink    = "https://direct-link.net/1349827/q6UHDiFaxz5c"
 
 local setclip = setclipboard or toclipboard or (Clipboard and Clipboard.set) or function() end
 
